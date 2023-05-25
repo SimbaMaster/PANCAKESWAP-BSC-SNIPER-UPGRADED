@@ -1,7 +1,7 @@
 # Automated BSC Token Sniper - Buy and Sell 
 An advanced python bot which automatically buys tokens on the Binance Smart Chain as soon as it detects that a liquidity pair has been created and then sells the tokens when your desired profit threshold is met. 
  - it will detect if the the coin is honeypot or untradable
- - ![image info](images/CHECKING.png)
+ - ![image info](/CHECKING.png)
 ## Prerequisites
 - Python 3 or greater
 - A BSCScan API key (Free of charge. Simply [Create an account on BSCScan](https://www.bscscan.com/register) and then generate a free API key)
