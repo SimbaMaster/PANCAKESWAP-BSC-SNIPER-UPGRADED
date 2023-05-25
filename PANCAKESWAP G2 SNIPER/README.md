@@ -1,8 +1,6 @@
-# Automated BSC Token Sniper - Buy and Sell 
+# Upgrad pancakeswap bsc Sniper Bot G1 - Buy and Sell 
 An advanced python bot which automatically buys tokens on the Binance Smart Chain as soon as it detects that a liquidity pair has been created and then sells the tokens when your desired profit threshold is met. 
-
-## GUI Preview (Coming Soon - In Development)
-![GUI Preview](docs/assets/gui_preview.png)
+-auto detection for honeypot and high sell taxes
 
 ## Prerequisites
 - Python 3 or greater
